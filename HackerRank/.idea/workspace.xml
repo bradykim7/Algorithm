@@ -2,37 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5bca09e-c2ad-4eba-8b72-832501c2a2ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem_Solving/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem_Solving/implemetation/Angry_Professor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_Solving/implementation/Angry_Professor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem_Solving/implemetation/Apple_And_Orange.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_Solving/implementation/Apple_And_Orange.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem_Solving/implemetation/Beautiful_Days_At_The_Movies.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_Solving/implementation/Beautiful_Days_At_The_Movies.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem_Solving/implemetation/Between_Two_Sets.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_Solving/implementation/Between_Two_Sets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem_Solving/implemetation/Birthday_Chocolate.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_Solving/implementation/Birthday_Chocolate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem_Solving/implemetation/Bon_Appetit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_Solving/implementation/Bon_Appetit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem_Solving/implemetation/Breaking_the_Records.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_Solving/implementation/Breaking_the_Records.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem_Solving/implemetation/Cats_And_A_Mouse.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_Solving/implementation/Cats_And_A_Mouse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem_Solving/implemetation/Circular_Array_Rotation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_Solving/implementation/Circular_Array_Rotation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem_Solving/implemetation/Counting_Valleys.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_Solving/implementation/Counting_Valleys.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem_Solving/implemetation/Day_of_Programmer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_Solving/implementation/Day_of_Programmer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem_Solving/implemetation/Designer_PDF_Viewer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_Solving/implementation/Designer_PDF_Viewer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem_Solving/implemetation/Divisible_Sum_Pair.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_Solving/implementation/Divisible_Sum_Pair.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem_Solving/implemetation/Drawing_Book.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_Solving/implementation/Drawing_Book.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem_Solving/implemetation/Electronics_Shop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_Solving/implementation/Electronics_Shop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem_Solving/implemetation/Find_Digits.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_Solving/implementation/Find_Digits.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem_Solving/implemetation/Jumping_on_the_Clouds_Revisited.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_Solving/implementation/Jumping_on_the_Clouds_Revisited.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem_Solving/implemetation/Kangaroo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_Solving/implementation/Kangaroo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem_Solving/implemetation/Library_Fine.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_Solving/implementation/Library_Fine.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem_Solving/implemetation/Migratory_Birds.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_Solving/implementation/Migratory_Birds.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem_Solving/implemetation/Picking_Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_Solving/implementation/Picking_Number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem_Solving/implemetation/Save_the_Prisoner.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_Solving/implementation/Save_the_Prisoner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem_Solving/implemetation/Sequence_Equation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_Solving/implementation/Sequence_Equation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem_Solving/implemetation/Shelock_And_Squares.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_Solving/implementation/Shelock_And_Squares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem_Solving/implemetation/Sock_Merchant.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_Solving/implementation/Sock_Merchant.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem_Solving/implemetation/Sock_Merchant_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_Solving/implementation/Sock_Merchant_v2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem_Solving/implemetation/The_Hudle_Race.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_Solving/implementation/The_Hudle_Race.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem_Solving/implemetation/Utopian_Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_Solving/implementation/Utopian_Tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem_Solving/implemetation/Viral_Advertising.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_Solving/implementation/Viral_Advertising.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem_Solving/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_Solving/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -49,8 +19,8 @@
         <entry file="file://$PROJECT_DIR$/Problem_Solving/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="495">
-                <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+              <first_editor relative-caret-position="630">
+                <caret line="42" column="8" lean-forward="true" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
               </first_editor>
               <second_editor />
             </state>
@@ -62,6 +32,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>2 days ago</find>
+      <find>merge</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -135,12 +106,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587447475245</updated>
-      <workItem from="1587447476378" duration="1274000" />
+      <workItem from="1587447476378" duration="1822000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1274000" />
+    <option name="totallyTimeSpent" value="1822000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -172,8 +143,8 @@
     <entry file="file://$PROJECT_DIR$/Problem_Solving/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="495">
-            <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+          <first_editor relative-caret-position="630">
+            <caret line="42" column="8" lean-forward="true" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
           </first_editor>
           <second_editor />
         </state>

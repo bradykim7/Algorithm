@@ -1,3 +1,5 @@
+# Easy
+
 [Angry_Professor.py](implementation/Angry_Professor.py)	
 [Apple_And_Orange.py](implementation/Apple_And_Orange.py)
 [Beautiful_Days_At_The_Movies.py](implementation/Beautiful_Days_At_The_Movies.py)
@@ -32,3 +34,10 @@
 [Jumping_On_The_Clouds.py](implementation/Jumping_On_The_Clouds.py)
 [Equalize_The_Array.py](implementation/Equalize_The_Array.py)
 [ACM_ICPC_Team.py](implementation/ACM_ICPC_Team.py)
+[Taum_and_Bday.py](implementation/Taum_and_Bday.py)
+[Beautiful_Triplets.py](implementation/Beautiful_Triplets.py)
+[Minimum_Distance.py](implementation/Minimum_Distance.py)
+[Halloween_Sale.py](implementation/Halloween_Sale.py)
+
+
+# Medium
