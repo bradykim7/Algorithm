@@ -38,6 +38,9 @@
 [Beautiful_Triplets.py](implementation/Beautiful_Triplets.py)
 [Minimum_Distance.py](implementation/Minimum_Distance.py)
 [Halloween_Sale.py](implementation/Halloween_Sale.py)
-
+[Chocolate_Feast.py](implementation/Chocolate_Feast.py)
+[Service_Lane.py](implementation/Service_Lane.py)
+[Lisas_Workbook.py](implementation/Lisas_Workbook.py)
+[Flatland_Space_Statoins.py](implementation/Flatland_Space_Statoins.py)
 
 # Medium
