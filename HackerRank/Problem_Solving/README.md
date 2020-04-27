@@ -1,5 +1,7 @@
 # Easy
 
+
+## implementation
 [Angry_Professor.py](implementation/Angry_Professor.py)	
 [Apple_And_Orange.py](implementation/Apple_And_Orange.py)
 [Beautiful_Days_At_The_Movies.py](implementation/Beautiful_Days_At_The_Movies.py)
@@ -45,6 +47,11 @@
 [Fair_Rations.py](implementation/Fair_Rations.py)
 [Cavity_Map.py](implementation/Cavity_map.py)
 [Manasa_And_Stone.py](implementation/Manasa_And_Stone.py)
+[Happy_Ladybugs.py](implementation/Happy_Ladybugs.py)
+[Strange_Counter.py](implementation/Strange_Counter.py)
 
 
+## Greedy
+[Marcs_Cakewalk.py](Greedy/Marcs_Cakewalk.py)
+[Grid_Challenge.py](Greedy/Grid_Challenge.py)
 # Medium
