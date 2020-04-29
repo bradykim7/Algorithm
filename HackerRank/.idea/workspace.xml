@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f5bca09e-c2ad-4eba-8b72-832501c2a2ad" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/Problem_Solving/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_Solving/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem_Solving/implementation/.Happy_Ladybugs.py.swp" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/Problem_Solving/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="642">
+              <first_editor relative-caret-position="570">
                 <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
               </first_editor>
               <second_editor />
@@ -108,12 +107,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587447475245</updated>
-      <workItem from="1587447476378" duration="5539000" />
+      <workItem from="1587447476378" duration="6085000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5539000" />
+    <option name="totallyTimeSpent" value="6085000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="726" y="0" width="714" height="900" extended-state="0" />
@@ -145,7 +144,7 @@
     <entry file="file://$PROJECT_DIR$/Problem_Solving/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="642">
+          <first_editor relative-caret-position="570">
             <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
           </first_editor>
           <second_editor />

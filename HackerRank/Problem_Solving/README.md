@@ -2,6 +2,7 @@
 
 
 ## implementation
+
 [Angry_Professor.py](implementation/Angry_Professor.py)	
 [Apple_And_Orange.py](implementation/Apple_And_Orange.py)
 [Beautiful_Days_At_The_Movies.py](implementation/Beautiful_Days_At_The_Movies.py)
@@ -54,4 +55,7 @@
 ## Greedy
 [Marcs_Cakewalk.py](Greedy/Marcs_Cakewalk.py)
 [Grid_Challenge.py](Greedy/Grid_Challenge.py)
+[Luck_Balance.py](Greedy/Luck_Balance.py)
+[Maximum_Perimeter_Triangle.py](Greedy/Maximum_Perimeter_Triangle.py)
+
 # Medium
