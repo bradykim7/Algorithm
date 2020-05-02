@@ -1,6 +1,3 @@
-# Easy
-
-
 ## implementation
 
 
@@ -67,6 +64,7 @@ Number | Problem
 3|[Luck_Balance.py](Greedy/Luck_Balance.py)
 4|[Maximum_Perimeter_Triangle.py](Greedy/Maximum_Perimeter_Triangle.py)
 5|[Beautiful_Pairs.py](Greedy/Beautiful_Pairs.py)
-
+6|[Sherlock_and_The_Beast.py](Greedy/Sherlock_and_The_Beast.py)
+7|[Priyanka_and_Toys.py](Greedy/Priyanka_and_Toys.py)
 
 # Medium

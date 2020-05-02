@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5bca09e-c2ad-4eba-8b72-832501c2a2ad" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Problem_Solving/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Problem_Solving/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,8 +20,20 @@
         <entry file="file://$PROJECT_DIR$/Problem_Solving/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="525">
-                <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+              <first_editor relative-caret-position="690">
+                <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="30">
+                <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
               </first_editor>
               <second_editor />
             </state>
@@ -46,6 +58,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Problem_Solving/README.md" />
       </list>
     </option>
@@ -108,19 +121,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587447475245</updated>
-      <workItem from="1587447476378" duration="8066000" />
+      <workItem from="1587447476378" duration="8550000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8066000" />
+    <option name="totallyTimeSpent" value="8550000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="343" y="0" width="1097" height="900" extended-state="6" />
+    <frame x="652" y="0" width="788" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18773234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26336375" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
@@ -142,11 +155,21 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Problem_Solving/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="525">
-            <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+          <first_editor relative-caret-position="690">
+            <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
           </first_editor>
           <second_editor />
         </state>
