@@ -66,5 +66,6 @@ Number | Problem
 5|[Beautiful_Pairs.py](Greedy/Beautiful_Pairs.py)
 6|[Sherlock_and_The_Beast.py](Greedy/Sherlock_and_The_Beast.py)
 7|[Priyanka_and_Toys.py](Greedy/Priyanka_and_Toys.py)
+8|[Largest_Permutation.py](Greedy/Largest_Permutation.py)
 
 # Medium
