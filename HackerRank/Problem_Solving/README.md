@@ -68,6 +68,7 @@ Number | Problem
 7|[Priyanka_and_Toys.py](Greedy/Priyanka_and_Toys.py)
 8|[Largest_Permutation.py](Greedy/Largest_Permutation.py)
 9|[Mark_And_Toys.py](Greedy/Mark_And_Toys.py)
+10|[Jim_And_The_Orders.py](Greedy/Jim_And_The_Orders.py)
 
 # Medium
 
@@ -78,3 +79,4 @@ Number | Problem
 Number | Problem 
 :---: | :---:
 1|[Ice_Cream_Parlor.py](Search/Ice_Cream_Parlor.py)
+
