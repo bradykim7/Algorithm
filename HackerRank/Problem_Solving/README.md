@@ -69,6 +69,7 @@ Number | Problem
 8|[Largest_Permutation.py](Greedy/Largest_Permutation.py)
 9|[Mark_And_Toys.py](Greedy/Mark_And_Toys.py)
 10|[Jim_And_The_Orders.py](Greedy/Jim_And_The_Orders.py)
+11|[Permuting_Two_Arrays.py](Greedy/Permuting_Two_Arrays.py)
 
 # Medium
 
