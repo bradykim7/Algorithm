@@ -1,8 +1,7 @@
-# This repository is for practice Python, to preparing Algorithm test ! 
-
-# Everyday more than one commit ! 
-
-###[Probelm Solving Section](Problem_Solving)
+# Hackerrank bradykim777  Everyday more than one commit ! 
 
 
-###[Introduction](introduction)
+### [Probelm Solving Section](Problem_Solving)
+
+
+### [Introduction](introduction)
