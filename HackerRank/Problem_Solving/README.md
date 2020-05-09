@@ -65,3 +65,8 @@ Number | Problem
 
 
 ### Easy
+Number | Problem 
+:---: | :---:
+1|[Super_Reduced_String.py](String/Super_Reduced_String.py)
+2|[Strong_Password.py](String/Strong_Password.py)
+3|[Two_Characters.py](String/Two_Characters.py)
