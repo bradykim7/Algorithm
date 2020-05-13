@@ -71,3 +71,7 @@ Number | Problem
 2|[Strong_Password.py](String/Strong_Password.py)
 3|[Two_Characters.py](String/Two_Characters.py)
 4|[Caesar_Cipher.py](String/Caesar_Cipher.py)
+5|[Mars_Exploration.py](String/Mars_Exploration.py)
+6|[HackerRank_in_a_String.py](String/HackerRank_in_a_String.py)
+7|[Pangrams.py](String/Pangrams.py)
+8|[Weighted_Uniform_Strings.py](String/Weighted_Uniform_Strings.py)
