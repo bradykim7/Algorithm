@@ -75,3 +75,6 @@ Number | Problem
 6|[HackerRank_in_a_String.py](String/HackerRank_in_a_String.py)
 7|[Pangrams.py](String/Pangrams.py)
 8|[Weighted_Uniform_Strings.py](String/Weighted_Uniform_Strings.py)
+9|[Funny_String.py](String/Funny_String.py)
+10|[Gemstones.py](String/Gemstones.py)
+11|[Alternating_Characters.py](String/Alternating_Characters.py)
