@@ -78,3 +78,4 @@ Number | Problem
 9|[Funny_String.py](String/Funny_String.py)
 10|[Gemstones.py](String/Gemstones.py)
 11|[Alternating_Characters.py](String/Alternating_Characters.py)
+12|[Beautiful_Binary_String.py](String/Beautiful_Binary_String.py)
