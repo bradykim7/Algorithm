@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af85dfbc-1e4a-4316-bfd4-cd4e954c7b5f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HackerRank/Problem_Solving/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,8 +20,8 @@
         <entry file="file://$PROJECT_DIR$/HackerRank/Problem_Solving/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="480">
-                <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+              <first_editor relative-caret-position="705">
+                <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
               </first_editor>
               <second_editor />
             </state>
@@ -47,7 +48,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="791" />
+    <option name="width" value="508" />
     <option name="height" value="900" />
   </component>
   <component name="ProjectView">
@@ -119,17 +120,18 @@
       <workItem from="1588836718780" duration="1027000" />
       <workItem from="1588843485930" duration="201000" />
       <workItem from="1588872138274" duration="6651000" />
+      <workItem from="1589612865912" duration="517000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13557000" />
+    <option name="totallyTimeSpent" value="14074000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="791" height="900" extended-state="0" />
+    <frame x="0" y="0" width="785" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28441557" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3049738" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -375,8 +377,8 @@
     <entry file="file://$PROJECT_DIR$/HackerRank/Problem_Solving/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="480">
-            <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <first_editor relative-caret-position="705">
+            <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
           </first_editor>
           <second_editor />
         </state>

@@ -79,3 +79,4 @@ Number | Problem
 10|[Gemstones.py](String/Gemstones.py)
 11|[Alternating_Characters.py](String/Alternating_Characters.py)
 12|[Beautiful_Binary_String.py](String/Beautiful_Binary_String.py)
+13|[The_Love_Letter_Mystery.py](String/The_Love_Letter_Mystery.py)
