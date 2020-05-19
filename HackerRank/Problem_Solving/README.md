@@ -1,6 +1,5 @@
 ## implementation
 
-
 ### Easy
 Number | Problem | Number | Problem
 :---: | :---: | :---: | :---:
@@ -65,9 +64,9 @@ Number | Problem
 
 
 ### Easy
-Number | Problem 
-:---: | :---:
-1|[Super_Reduced_String.py](String/Super_Reduced_String.py)
+Number | Problem | Number | Problem
+:---: | :---: | :---: | :---:
+1|[Super_Reduced_String.py](String/Super_Reduced_String.py)|16|[Making_Anagrams.py](String/Making_Anagrams.py)
 2|[Strong_Password.py](String/Strong_Password.py)
 3|[Two_Characters.py](String/Two_Characters.py)
 4|[Caesar_Cipher.py](String/Caesar_Cipher.py)
@@ -80,3 +79,5 @@ Number | Problem
 11|[Alternating_Characters.py](String/Alternating_Characters.py)
 12|[Beautiful_Binary_String.py](String/Beautiful_Binary_String.py)
 13|[The_Love_Letter_Mystery.py](String/The_Love_Letter_Mystery.py)
+14|[Palindrome_Index.py](String/Palindrome_Index.py)
+15|[Anagram.py](String/Anagram.py)
