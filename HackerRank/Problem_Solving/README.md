@@ -67,7 +67,7 @@ Number | Problem
 Number | Problem | Number | Problem
 :---: | :---: | :---: | :---:
 1|[Super_Reduced_String.py](String/Super_Reduced_String.py)|16|[Making_Anagrams.py](String/Making_Anagrams.py)
-2|[Strong_Password.py](String/Strong_Password.py)
+2|[Strong_Password.py](String/Strong_Password.py)|17|[Game_of_Thrones_1.py](String/Game_of_Thrones_1.py)
 3|[Two_Characters.py](String/Two_Characters.py)
 4|[Caesar_Cipher.py](String/Caesar_Cipher.py)
 5|[Mars_Exploration.py](String/Mars_Exploration.py)

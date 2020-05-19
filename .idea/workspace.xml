@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af85dfbc-1e4a-4316-bfd4-cd4e954c7b5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/String/Anagram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/String/Making_Anagrams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/String/Game_of_Thrones_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HackerRank/Problem_Solving/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Problem_Solving/String/Palindrome_Index.py" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/String/Palindrome_Index.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +50,7 @@
       <workItem from="1588872138274" duration="6651000" />
       <workItem from="1589612865912" duration="862000" />
       <workItem from="1589773985539" duration="779000" />
-      <workItem from="1589775555739" duration="4874000" />
+      <workItem from="1589775555739" duration="5447000" />
     </task>
     <servers />
   </component>
