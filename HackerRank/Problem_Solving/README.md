@@ -1,4 +1,4 @@
-## implementation
+## Implementation
 
 ### Easy
 Number | Problem | Number | Problem
@@ -68,8 +68,8 @@ Number | Problem | Number | Problem
 :---: | :---: | :---: | :---:
 1|[Super_Reduced_String.py](String/Super_Reduced_String.py)|16|[Making_Anagrams.py](String/Making_Anagrams.py)
 2|[Strong_Password.py](String/Strong_Password.py)|17|[Game_of_Thrones_1.py](String/Game_of_Thrones_1.py)
-3|[Two_Characters.py](String/Two_Characters.py)
-4|[Caesar_Cipher.py](String/Caesar_Cipher.py)
+3|[Two_Characters.py](String/Two_Characters.py)|18|[Two_Strings.py](String/Two_Strings.py)
+4|[Caesar_Cipher.py](String/Caesar_Cipher.py)|19|[String_Construction.py](String/String_Construction.py)
 5|[Mars_Exploration.py](String/Mars_Exploration.py)
 6|[HackerRank_in_a_String.py](String/HackerRank_in_a_String.py)
 7|[Pangrams.py](String/Pangrams.py)
@@ -81,3 +81,21 @@ Number | Problem | Number | Problem
 13|[The_Love_Letter_Mystery.py](String/The_Love_Letter_Mystery.py)
 14|[Palindrome_Index.py](String/Palindrome_Index.py)
 15|[Anagram.py](String/Anagram.py)
+
+
+## Sorting
+
+
+### Easy
+Number | Problem 
+:---: | :---:
+1|[Intro_to_Tutorial_Challenges.py](Sorting/Intro_to_Tutorial_Challenges.py)
+2|
+
+### Insertion Sort challenges
+Number | Problem 
+:---: | :---:
+1|[Insertion_Sort_1_Inserting.py](Sorting/Insertion_Sort_1_Inserting.py)
+2|[Insertion_Sort_2_Sorting.py](Sorting/Insertion_Sort_2_Sorting.py)
+3|[Correctness_and_Loop_Invariant.py](Sorting/Correctness_and_Loop_Invariant.py)
+4| Running Time of Algorithms
