@@ -98,4 +98,12 @@ Number | Problem
 1|[Insertion_Sort_1_Inserting.py](Sorting/Insertion_Sort_1_Inserting.py)
 2|[Insertion_Sort_2_Sorting.py](Sorting/Insertion_Sort_2_Sorting.py)
 3|[Correctness_and_Loop_Invariant.py](Sorting/Correctness_and_Loop_Invariant.py)
-4| Running Time of Algorithms
+4|[Running_Time_of_Algorithms.py](Sorting/Running_Time_of_Algorithms.py)
+
+### Quicksort challenges
+Number | Problem 
+:---: | :---:
+1|[Quicksort_1_Partition.py](Sorting/Quicksort_1_Partition.py)
+2|[Quicksort_2_Sorting.py](Sorting/Quicksort_2_Sorting.py)
+3|[Quicksort_In_place(advanced).py](Sorting/Quicksort_In_place(advanced).py)
+4|Running time of Quicksort

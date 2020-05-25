@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af85dfbc-1e4a-4316-bfd4-cd4e954c7b5f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/Sorting/Quicksort_2_Sorting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/Sorting/Quicksort_In_place(advanced).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Document/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Document/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Document/docs/Loop_Invariant.md" beforeDir="false" afterPath="$PROJECT_DIR$/Document/docs/Loop_Invariant.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HackerRank/Problem_Solving/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Problem_Solving/Sorting/Insertion_Sort_1_Inserting.py" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/Sorting/Insertion_Sort_1_Inserting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Problem_Solving/Sorting/Insertion_Sort_2_Sorting.py" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/Sorting/Insertion_Sort_2_Sorting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Problem_Solving/Sorting/Intro_to_Tutorial_Challenges.py" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/Sorting/Intro_to_Tutorial_Challenges.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Problem_Solving/String/String_Construction.py" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/String/String_Construction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Problem_Solving/String/Two_Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/String/Two_Strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Problem_Solving/Sorting/Correctness_and_Loop_Invariant.py" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/Sorting/Correctness_and_Loop_Invariant.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Problem_Solving/Sorting/Quicksort_1_Partition.py" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/Sorting/Quicksort_1_Partition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Problem_Solving/Sorting/Running_Time_of_Algorithms.py" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/Sorting/Running_Time_of_Algorithms.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +21,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1c46WEEEmXtomkTTT21GPy0n1Vr" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,6 +43,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Document/docs" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -56,7 +65,7 @@
       <workItem from="1589612865912" duration="862000" />
       <workItem from="1589773985539" duration="779000" />
       <workItem from="1589775555739" duration="8239000" />
-      <workItem from="1590038645718" duration="52000" />
+      <workItem from="1590038645718" duration="5778000" />
     </task>
     <servers />
   </component>
@@ -64,6 +73,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="421" y="176" width="598" height="548" key="find.popup" timestamp="1590133881233">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="421" y="176" width="598" height="548" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1590133881233" />
     <state x="347" y="-284" key="run.anything.popup" timestamp="1589856954968">
       <screen x="-278" y="-1080" width="1920" height="1080" />
     </state>
