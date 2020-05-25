@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af85dfbc-1e4a-4316-bfd4-cd4e954c7b5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/Sorting/Quicksort_2_Sorting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/Sorting/Quicksort_In_place(advanced).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/Sorting/Counting_Sort_1_Counting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/Sorting/Counting_Sort_2_Simple_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/Sorting/Running_time_of_Quicksort.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Document/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Document/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Document/docs/Loop_Invariant.md" beforeDir="false" afterPath="$PROJECT_DIR$/Document/docs/Loop_Invariant.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HackerRank/Problem_Solving/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Problem_Solving/Sorting/Correctness_and_Loop_Invariant.py" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/Sorting/Correctness_and_Loop_Invariant.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Problem_Solving/Sorting/Quicksort_1_Partition.py" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/Sorting/Quicksort_1_Partition.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Problem_Solving/Sorting/Running_Time_of_Algorithms.py" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/Sorting/Running_Time_of_Algorithms.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +61,7 @@
       <workItem from="1589612865912" duration="862000" />
       <workItem from="1589773985539" duration="779000" />
       <workItem from="1589775555739" duration="8239000" />
-      <workItem from="1590038645718" duration="5778000" />
+      <workItem from="1590038645718" duration="8417000" />
     </task>
     <servers />
   </component>
@@ -73,10 +69,14 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="176" width="598" height="548" key="find.popup" timestamp="1590133881233">
+    <state x="308" y="200" key="IDE.errors.dialog" timestamp="1590400640541">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="421" y="176" width="598" height="548" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1590133881233" />
+    <state x="308" y="200" key="IDE.errors.dialog/0.0.1440.900@0.0.1440.900" timestamp="1590400640541" />
+    <state x="421" y="176" width="601" height="548" key="find.popup" timestamp="1590397106857">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="421" y="176" width="601" height="548" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1590397106857" />
     <state x="347" y="-284" key="run.anything.popup" timestamp="1589856954968">
       <screen x="-278" y="-1080" width="1920" height="1080" />
     </state>

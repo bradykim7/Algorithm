@@ -100,10 +100,21 @@ Number | Problem
 3|[Correctness_and_Loop_Invariant.py](Sorting/Correctness_and_Loop_Invariant.py)
 4|[Running_Time_of_Algorithms.py](Sorting/Running_Time_of_Algorithms.py)
 
+
 ### Quicksort challenges
+#### Quicksort는 중요한 것 같다. Pivot위치에 따라 시간 복잡도 O(n)이 달라진다. 연습해보자
 Number | Problem 
 :---: | :---:
 1|[Quicksort_1_Partition.py](Sorting/Quicksort_1_Partition.py)
 2|[Quicksort_2_Sorting.py](Sorting/Quicksort_2_Sorting.py)
 3|[Quicksort_In_place(advanced).py](Sorting/Quicksort_In_place(advanced).py)
-4|Running time of Quicksort
+4|[Running_time_of_Quicksort.py](Sorting/Running_time_of_Quicksort.py)
+
+
+### Counting sort challenges
+Number | Problem 
+:---: | :---:
+1|[Counting_Sort_1_Counting.py](Sorting/Counting_Sort_1_Counting.py)
+2|[Counting_Sort_2_Simple_sort.py](Sorting/Counting_Sort_2_Simple_sort.py)
+3|[Counting_Sort_3_Preparing.py]
+4|[Full_Counting_Sort_advanced.py]
