@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af85dfbc-1e4a-4316-bfd4-cd4e954c7b5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/Sorting/Counting_Sort_1_Counting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/Sorting/Counting_Sort_2_Simple_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/Sorting/Running_time_of_Quicksort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/Sorting/Counting_Sort_3_Preparing.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HackerRank/Problem_Solving/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/README.md" afterDir="false" />
     </list>
@@ -61,7 +59,7 @@
       <workItem from="1589612865912" duration="862000" />
       <workItem from="1589773985539" duration="779000" />
       <workItem from="1589775555739" duration="8239000" />
-      <workItem from="1590038645718" duration="8417000" />
+      <workItem from="1590038645718" duration="10622000" />
     </task>
     <servers />
   </component>
@@ -77,6 +75,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="421" y="176" width="601" height="548" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1590397106857" />
+    <state x="88" y="135" key="new project wizard" timestamp="1590490374716">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="88" y="135" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1590490374716" />
     <state x="347" y="-284" key="run.anything.popup" timestamp="1589856954968">
       <screen x="-278" y="-1080" width="1920" height="1080" />
     </state>

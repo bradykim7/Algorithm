@@ -116,5 +116,5 @@ Number | Problem
 :---: | :---:
 1|[Counting_Sort_1_Counting.py](Sorting/Counting_Sort_1_Counting.py)
 2|[Counting_Sort_2_Simple_sort.py](Sorting/Counting_Sort_2_Simple_sort.py)
-3|[Counting_Sort_3_Preparing.py]
+3|[Counting_Sort_3_Preparing.py](Sorting/Counting_Sort_3_Preparing.py)
 4|[Full_Counting_Sort_advanced.py]
