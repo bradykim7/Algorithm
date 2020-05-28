@@ -10,7 +10,7 @@
 
 
 ### [Probelm Solving Section](Problem_Solving)
-#### Unsolved : String/Seperate The Numbers
+#### Unsolved Problem : String/Seperate The Numbers
 
 
 ### [Introduction](introduction)

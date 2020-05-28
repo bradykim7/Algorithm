@@ -20,7 +20,7 @@ def quicksort(arr,start,end):
     if start < end:
         point = partition(arr,start,end)
         left= quicksort(arr,start,point-1)
-        rigth = quicksort(arr,point+1,end)
+        right = quicksort(arr,point+1,end)
 
     return ansq
 

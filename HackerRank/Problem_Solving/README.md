@@ -58,6 +58,7 @@ Number | Problem
 Number | Problem 
 :---: | :---:
 1|[Ice_Cream_Parlor.py](Search/Ice_Cream_Parlor.py)
+2|[Missing_Numbers.py](Search/Missing_Numbers.py)
 
 
 ## String 
@@ -90,7 +91,9 @@ Number | Problem | Number | Problem
 Number | Problem 
 :---: | :---:
 1|[Intro_to_Tutorial_Challenges.py](Sorting/Intro_to_Tutorial_Challenges.py)
-2|
+2|[Big_Sorting.py](Sorting/Big_Sorting.py)
+3|[Closest_Numbers.py](Sorting/Closest_Numbers.py)
+4|[Find_the_Median.py](Sorting/Find_the_Median.py)
 
 ### Insertion Sort challenges
 Number | Problem 
@@ -102,7 +105,7 @@ Number | Problem
 
 
 ### Quicksort challenges
-#### Quicksort는 중요한 것 같다. Pivot위치에 따라 시간 복잡도 O(n)이 달라진다. 연습해보자
+#### Quicksort는 중요한 것 같다. Pivot 위치에 따라 시간 복잡도 O(n)이 달라진다. 연습해보자
 Number | Problem 
 :---: | :---:
 1|[Quicksort_1_Partition.py](Sorting/Quicksort_1_Partition.py)
