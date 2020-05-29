@@ -48,6 +48,8 @@ Number | Problem
 9|[Mark_And_Toys.py](Greedy/Mark_And_Toys.py)
 10|[Jim_And_The_Orders.py](Greedy/Jim_And_The_Orders.py)
 11|[Permuting_Two_Arrays.py](Greedy/Permuting_Two_Arrays.py)
+12|[Minimum_Absolute_Difference_in_an_Array.py](Greedy/Minimum_Absolute_Difference_in_an_Array.py)
+
 
 ### Medium
 
@@ -59,7 +61,8 @@ Number | Problem
 :---: | :---:
 1|[Ice_Cream_Parlor.py](Search/Ice_Cream_Parlor.py)
 2|[Missing_Numbers.py](Search/Missing_Numbers.py)
-
+3|[Sherlock_and_Array.py](Search/Sherlock_and_Array.py)
+   
 
 ## String 
 
@@ -121,3 +124,14 @@ Number | Problem
 2|[Counting_Sort_2_Simple_sort.py](Sorting/Counting_Sort_2_Simple_sort.py)
 3|[Counting_Sort_3_Preparing.py](Sorting/Counting_Sort_3_Preparing.py)
 4|[Full_Counting_Sort_advanced.py](Sorting/Full_Counting_Sort_advanced.py)
+
+
+
+## Game Theory
+
+
+### Easy
+Number | Problem 
+:---: | :---:
+1|[Game_of_Stones.py](GameTheory/Game_of_Stones.py)
+  
