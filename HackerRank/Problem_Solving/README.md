@@ -135,3 +135,15 @@ Number | Problem
 :---: | :---:
 1|[Game_of_Stones.py](GameTheory/Game_of_Stones.py)
   
+  
+
+
+## Bit Manipulation
+
+
+### Easy
+Number | Problem 
+:---: | :---:
+1|[Lonely_Integer.py](BitManipulation/Lonely_Integer.py)
+2|[Maximizing_XOR.py](BitManipulation/Maximizing_XOR.py)
+3|[Sum_vs_XOR.py](BitManipulation/Sum_vs_XOR.py)
