@@ -22,7 +22,6 @@ def sumXor(n):
         return 2**(bin(n).count('0')-1)
 
 
-
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
 

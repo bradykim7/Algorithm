@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af85dfbc-1e4a-4316-bfd4-cd4e954c7b5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/BitManipulation/Lonely_Integer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/BitManipulation/Maximizing_XOR.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/BitManipulation/Sum_vs_XOR.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/BitManipulation/Flipping_bits.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Problem_Solving/BitManipulation/Sum_vs_XOR.py" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/BitManipulation/Sum_vs_XOR.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HackerRank/Problem_Solving/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +74,9 @@
       <workItem from="1590038645718" duration="13948000" />
       <workItem from="1590646037987" duration="1376000" />
       <workItem from="1590736392310" duration="879000" />
-      <workItem from="1591071939732" duration="1755000" />
+      <workItem from="1591071939732" duration="2525000" />
+      <workItem from="1591164369377" duration="1014000" />
+      <workItem from="1591181807014" duration="87000" />
     </task>
     <servers />
   </component>

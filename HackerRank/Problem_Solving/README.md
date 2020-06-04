@@ -147,3 +147,25 @@ Number | Problem
 1|[Lonely_Integer.py](BitManipulation/Lonely_Integer.py)
 2|[Maximizing_XOR.py](BitManipulation/Maximizing_XOR.py)
 3|[Sum_vs_XOR.py](BitManipulation/Sum_vs_XOR.py)
+4|[Flipping_bits.py](BitManipulation/Flipping_bits.py)
+   
+
+## Graph Theory
+
+### Easy
+There's no Easy one
+
+
+### Medium
+Number | Problem 
+:---: | :---:
+1|[Roads_and_Libraries.py](GraphTheory/Roads_and_Libraries.py)
+
+
+### Easy
+Number | Problem 
+:---: | :---:
+1|[Lonely_Integer.py](BitManipulation/Lonely_Integer.py)
+2|[Maximizing_XOR.py](BitManipulation/Maximizing_XOR.py)
+3|[Sum_vs_XOR.py](BitManipulation/Sum_vs_XOR.py)
+4|[Flipping_bits.py](BitManipulation/Flipping_bits.py)
