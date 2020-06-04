@@ -97,27 +97,67 @@ graph = {'A': ['B', 'C', 'E'],
          'G': ['C']}
          
          
-# visits all the nodes of a graph (connected component) using BFS
-def bfs_connected_component(graph, start):
-    # keep track of all visited nodes
-    explored = []
-    # keep track of nodes to be checked
-    queue = [start]
- 
-    # keep looping until there are nodes still to be checked
+def bfs(visited, graph, node):
+  visited.append(node)
+  queue.append(node)
+
+  while queue:
+    s = queue.pop(0) 
+    print (s, end = " ") 
+
+    for neighbour in graph[s]:
+      if neighbour not in visited:
+        visited.append(neighbour)
+        queue.append(neighbour)
+
+bfs(visited, graph, 'A')
+
+</pre>
+
+<pre>
+Result : # returns ['A', 'B', 'C', 'E', 'D', 'F', 'G']
+</pre>
+
+
+#### Upgrade !  한 단계 더 
+
+Graph 에서의 두 개의 정점 사이에서의 최단 거리 구하는 알고리즘 
+
+Finding the shortest path between two nodes
+
+<pre>
+graph = {'A': ['B', 'C', 'E'],
+         'B': ['A','D', 'E'],
+         'C': ['A', 'F', 'G'],
+         'D': ['B'],
+         'E': ['A', 'B','D'],
+         'F': ['C'],
+         'G': ['C']}
+
+def bfs_shortest_path(graph, start, goal):
+    visited = []
+    queue = [[start]]
+
+    if start == goal:
+        return 'start == goal'
+
     while queue:
-        # pop shallowest node (first node) from queue
-        node = queue.pop(0)
-        if node not in explored:
-            # add node to list of checked nodes
-            explored.append(node)
+        print('QUEUE', queue)
+        path = queue.pop(0)
+        node = path[-1]
+        print('NODE', node)
+        if node not in visited:
             neighbours = graph[node]
- 
-            # add neighbours of node to queue
-            for neighbour in neighbours:
-                queue.append(neighbour)
-    return explored
- 
-bfs_connected_component(graph,'A') # returns ['A', 'B', 'C', 'E', 'D', 'F', 'G']
+            for i in neighbours:
+                new_path = list(path)
+                new_path.append(i)
+                queue.append(new_path)
+
+                print('NEW_PATH', new_path)
+                if i == goal:
+                    return ( new_path )
+                
+            visited.append(node)
+            print('VISITED', visited)
 
 </pre>
