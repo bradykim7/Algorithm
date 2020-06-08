@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af85dfbc-1e4a-4316-bfd4-cd4e954c7b5f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/warmUP/Compare_the_Triplets/Compare_the_Triplets.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo_Document/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Document/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Problem_Solving/GraphTheory/Breadth_First_Search:Shortest_Reach.py" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/GraphTheory/Breadth_First_Search:Shortest_Reach.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Problem_Solving/GraphTheory/Roads_and_Libraries.py" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/GraphTheory/Roads_and_Libraries.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Problem_Solving/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +35,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Document/docs/image" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -78,7 +81,10 @@
       <workItem from="1591071939732" duration="2525000" />
       <workItem from="1591164369377" duration="1014000" />
       <workItem from="1591181807014" duration="4767000" />
-      <workItem from="1591266603730" duration="1020000" />
+      <workItem from="1591266603730" duration="3250000" />
+      <workItem from="1591419849892" duration="2562000" />
+      <workItem from="1591597278853" duration="912000" />
+      <workItem from="1591615889953" duration="1298000" />
     </task>
     <servers />
   </component>
@@ -102,10 +108,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="63" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1591072645307" />
-    <state x="421" y="176" width="601" height="548" key="find.popup" timestamp="1591265564089">
+    <state x="421" y="176" width="601" height="548" key="find.popup" timestamp="1591616514820">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="421" y="176" width="601" height="548" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1591265564089" />
+    <state x="421" y="176" width="601" height="548" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1591616514820" />
     <state x="88" y="135" key="new project wizard" timestamp="1590490374716">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -114,5 +120,9 @@
       <screen x="-278" y="-1080" width="1920" height="1080" />
     </state>
     <state x="347" y="-284" key="run.anything.popup/0.0.1440.900/-278.-1080.1920.1080@-278.-1080.1920.1080" timestamp="1589856954968" />
+    <state x="385" y="196" key="search.everywhere.popup" timestamp="1591598107626">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1591598107626" />
   </component>
 </project>
