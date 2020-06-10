@@ -74,7 +74,7 @@ Number | Problem | Number | Problem
 2|[Strong_Password.py](String/Strong_Password.py)|17|[Game_of_Thrones_1.py](String/Game_of_Thrones_1.py)
 3|[Two_Characters.py](String/Two_Characters.py)|18|[Two_Strings.py](String/Two_Strings.py)
 4|[Caesar_Cipher.py](String/Caesar_Cipher.py)|19|[String_Construction.py](String/String_Construction.py)
-5|[Mars_Exploration.py](String/Mars_Exploration.py)
+5|[Mars_Exploration.py](String/Mars_Exploration.py)|20|[CamelCase.py](String/CamelCase.py)
 6|[HackerRank_in_a_String.py](String/HackerRank_in_a_String.py)
 7|[Pangrams.py](String/Pangrams.py)
 8|[Weighted_Uniform_Strings.py](String/Weighted_Uniform_Strings.py)
@@ -134,7 +134,8 @@ Number | Problem
 Number | Problem 
 :---: | :---:
 1|[Game_of_Stones.py](GameTheory/Game_of_Stones.py)
-  
+2|[Tower_Breakers.py](GameTheory/Tower_Breakers.py)
+                             
   
 
 
