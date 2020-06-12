@@ -135,8 +135,8 @@ Number | Problem
 :---: | :---:
 1|[Game_of_Stones.py](GameTheory/Game_of_Stones.py)
 2|[Tower_Breakers.py](GameTheory/Tower_Breakers.py)
-                             
-  
+3|[Introduction_to_Nim_Game.py](GameTheory/Introduction_to_Nim_Game.py)              
+4|[Misère_Nim.py](GameTheory/Misère_Nim.py)
 
 
 ## Bit Manipulation

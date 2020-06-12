@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="af85dfbc-1e4a-4316-bfd4-cd4e954c7b5f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Problem_Solving/GameTheory/Tower_Breakers.py" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/GameTheory/Tower_Breakers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Problem_Solving/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Problem_Solving/String/CamelCase.py" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/String/CamelCase.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +81,7 @@
       <workItem from="1591419849892" duration="2562000" />
       <workItem from="1591597278853" duration="912000" />
       <workItem from="1591615889953" duration="1804000" />
-      <workItem from="1591773032267" duration="1167000" />
+      <workItem from="1591773032267" duration="1728000" />
     </task>
     <servers />
   </component>
