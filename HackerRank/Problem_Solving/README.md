@@ -164,3 +164,11 @@ Number | Problem
 2|[Breadth_First_Search:Shortest_Reach.py](GraphTheory/Breadth_First_Search:Shortest_Reach.py)
 
 
+## Interview Preparation Kit
+
+### Arrays
+Number | Problem 
+:---: | :---:
+1|[2D_Array_DS.py](Interview_Preparation_Kit/2D_Array_DS.py)
+  
+

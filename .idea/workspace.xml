@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af85dfbc-1e4a-4316-bfd4-cd4e954c7b5f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/Interview_Preparation_Kit/2D_Array_DS.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Problem_Solving/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +84,9 @@
       <workItem from="1591597278853" duration="912000" />
       <workItem from="1591615889953" duration="1804000" />
       <workItem from="1591773032267" duration="1728000" />
+      <workItem from="1591867004933" duration="1835000" />
+      <workItem from="1592312667426" duration="1036000" />
+      <workItem from="1592391912546" duration="238000" />
     </task>
     <servers />
   </component>
@@ -93,10 +98,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="208" y="31" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1591071971782" />
-    <state x="412" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591245163513">
+    <state x="412" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592391988483">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="412" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1591245163513" />
+    <state x="412" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1592391988483" />
     <state x="308" y="200" key="IDE.errors.dialog" timestamp="1590400640541">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -117,9 +122,9 @@
       <screen x="-278" y="-1080" width="1920" height="1080" />
     </state>
     <state x="347" y="-284" key="run.anything.popup/0.0.1440.900/-278.-1080.1920.1080@-278.-1080.1920.1080" timestamp="1589856954968" />
-    <state x="385" y="196" key="search.everywhere.popup" timestamp="1591598107626">
+    <state x="385" y="196" key="search.everywhere.popup" timestamp="1591942379519">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1591598107626" />
+    <state x="385" y="196" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1591942379519" />
   </component>
 </project>
