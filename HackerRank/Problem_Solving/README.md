@@ -170,5 +170,5 @@ Number | Problem
 Number | Problem 
 :---: | :---:
 1|[2D_Array_DS.py](Interview_Preparation_Kit/2D_Array_DS.py)
-  
+2|[Arrays_Left_Rotation.py](Interview_Preparation_Kit/Arrays_Left_Rotation.py)
 
