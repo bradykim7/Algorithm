@@ -9,11 +9,21 @@ import sys
 # Complete the minimumSwaps function below.
 def minimumSwaps(arr):
     ans = 0
+    i = 0
+    '''
     for i in range(len(arr)):
         if arr[i] != i+1:
             ans+=1
             c = arr.index(i+1)
             arr[i], arr[c] = i+1, arr[i]
+    '''
+    while i <len(arr)-1:
+        if arr[i] != i+1:
+            ans+=1
+            temp =arr[i]
+            arr[i], arr[temp-1] = arr[temp-1], arr[i]
+        else:
+            i+=1
 
     return (ans)
 
