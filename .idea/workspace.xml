@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af85dfbc-1e4a-4316-bfd4-cd4e954c7b5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/Interview_Preparation_Kit/Arrays_Left_Rotation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/Interview_Preparation_Kit/Minimum_Swaps_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HackerRank/Problem_Solving/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/README.md" afterDir="false" />
     </list>
@@ -86,7 +86,8 @@
       <workItem from="1591773032267" duration="1728000" />
       <workItem from="1591867004933" duration="1835000" />
       <workItem from="1592312667426" duration="1036000" />
-      <workItem from="1592391912546" duration="469000" />
+      <workItem from="1592391912546" duration="648000" />
+      <workItem from="1592566193530" duration="201000" />
     </task>
     <servers />
   </component>
