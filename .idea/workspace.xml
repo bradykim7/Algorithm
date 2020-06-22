@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af85dfbc-1e4a-4316-bfd4-cd4e954c7b5f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/Interview_Preparation_Kit/Hash_Tables_Ransom_Note.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Problem_Solving/Interview_Preparation_Kit/Minimum_Swaps_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/Interview_Preparation_Kit/Minimum_Swaps_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Problem_Solving/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +88,7 @@
       <workItem from="1592312667426" duration="1036000" />
       <workItem from="1592391912546" duration="648000" />
       <workItem from="1592566193530" duration="1297000" />
-      <workItem from="1592635267793" duration="111000" />
+      <workItem from="1592635267793" duration="2876000" />
     </task>
     <servers />
   </component>
@@ -123,9 +124,10 @@
       <screen x="-278" y="-1080" width="1920" height="1080" />
     </state>
     <state x="347" y="-284" key="run.anything.popup/0.0.1440.900/-278.-1080.1920.1080@-278.-1080.1920.1080" timestamp="1589856954968" />
-    <state x="385" y="196" key="search.everywhere.popup" timestamp="1591942379519">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="385" y="202" key="search.everywhere.popup" timestamp="1592802619298">
+      <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="385" y="196" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1591942379519" />
+    <state x="385" y="202" key="search.everywhere.popup/0.23.1440.822@0.23.1440.822" timestamp="1592802619298" />
   </component>
 </project>

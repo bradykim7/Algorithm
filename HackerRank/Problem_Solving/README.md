@@ -172,3 +172,11 @@ Number | Problem
 1|[2D_Array_DS.py](Interview_Preparation_Kit/2D_Array_DS.py)
 2|[Arrays_Left_Rotation.py](Interview_Preparation_Kit/Arrays_Left_Rotation.py)
 3|[Minimum_Swaps_2.py](Interview_Preparation_Kit/Minimum_Swaps_2.py)
+4|[](Interview_Preparation_Kit/)
+
+
+### Dictionaries and Hashmaps
+
+Number | Problem 
+:---: | :---:
+1|[Hash_Tables_Ransom_Note.py](Interview_Preparation_Kit/Hash_Tables_Ransom_Note.py)
