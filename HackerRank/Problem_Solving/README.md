@@ -187,3 +187,10 @@ Number | Problem
 Number | Problem 
 :---: | :---:
 1|[Sorting_Bubble_Sort.py](Interview_Preparation_Kit/Sorting_Bubble_Sort.py)
+
+
+### Dictionaries and Hashmaps
+
+Number | Problem
+:---: | :---:
+1|[Sherlock_and_Anagrams.py](Interview_Preparation_Kit/Sherlock_and_Anagrams.py)
