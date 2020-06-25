@@ -180,7 +180,7 @@ Number | Problem
 Number | Problem 
 :---: | :---:
 1|[Hash_Tables_Ransom_Note.py](Interview_Preparation_Kit/Hash_Tables_Ransom_Note.py)
-
+2|[Sherlock_and_Anagrams.py](Interview_Preparation_Kit/Sherlock_and_Anagrams.py)
 
 ### Sorting
 
@@ -188,9 +188,8 @@ Number | Problem
 :---: | :---:
 1|[Sorting_Bubble_Sort.py](Interview_Preparation_Kit/Sorting_Bubble_Sort.py)
 
+### Greedy Algorithms
 
-### Dictionaries and Hashmaps
-
-Number | Problem
+Number | Problem 
 :---: | :---:
-1|[Sherlock_and_Anagrams.py](Interview_Preparation_Kit/Sherlock_and_Anagrams.py)
+1|[Greedy_Florist.py](Interview_Preparation_Kit/Greedy_Florist.py)

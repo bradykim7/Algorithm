@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af85dfbc-1e4a-4316-bfd4-cd4e954c7b5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/Interview_Preparation_Kit/Sherlock_and_Anagrams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/Interview_Preparation_Kit/Greedy_Florist.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HackerRank/Problem_Solving/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/README.md" afterDir="false" />
     </list>
@@ -110,7 +110,9 @@
       <workItem from="1592566193530" duration="1297000" />
       <workItem from="1592635267793" duration="3266000" />
       <workItem from="1592909931106" duration="254000" />
-      <workItem from="1593023359958" duration="180000" />
+      <workItem from="1593023359958" duration="229000" />
+      <workItem from="1593076356146" duration="1079000" />
+      <workItem from="1593077454802" duration="166000" />
     </task>
     <servers />
   </component>
@@ -127,6 +129,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="208" y="31" key="#Project_Structure" timestamp="1591071971782">
@@ -141,10 +144,11 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="308" y="200" key="IDE.errors.dialog/0.0.1440.900@0.0.1440.900" timestamp="1590400640541" />
-    <state x="221" y="63" key="SettingsEditor" timestamp="1591072645307">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="221" y="81" key="SettingsEditor" timestamp="1593077437821">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="221" y="63" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1591072645307" />
+    <state x="221" y="81" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1593077437821" />
     <state x="421" y="176" width="601" height="548" key="find.popup" timestamp="1591616514820">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
