@@ -193,3 +193,10 @@ Number | Problem
 Number | Problem 
 :---: | :---:
 1|[Greedy_Florist.py](Interview_Preparation_Kit/Greedy_Florist.py)
+
+
+### Search
+
+Number | Problem 
+:---: | :---:
+1|[Hash_Tables_Ice_Cream_Parlor.py](Interview_Preparation_Kit/Hash_Tables_Ice_Cream_Parlor.py)

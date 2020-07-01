@@ -20,6 +20,7 @@ Maintenance: If it's true before an iteration of a loop, it remains true before 
 Termination: It will terminate in a useful way once it is finished.
 
 ### 루프의 불변성 (KOR)
+
 컴퓨터 공학에서는 루프 안에서 어떤 특정한 값이 원하는 값을 가지고 있는 것을 증명하기 위해서 루프 불변식을 이용하여 주로 
 증명한다. 그리고 그 증명은 다음의 3가지로 세분화 된다.
 
@@ -37,7 +38,9 @@ Termination: It will terminate in a useful way once it is finished.
 한국말로 쓴 나조차 무슨 말인지 이해가 안되고 이해하기가 어렵다. 이를 엔지니어 답게 코드로 해석을 해보자.
 
 #### 코드로 이해하기
+
 ##### Loop invariant를 이야기하면서 가장 많이 예를 드는 Insertion Sorting을 예로 들겠다.
+
 <pre>
     # l 은 List를 의미한다. E.g [7, 4, 3, 5, 6, 2]
     for i in range(1, len(l)):
