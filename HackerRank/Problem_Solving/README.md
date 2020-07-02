@@ -200,3 +200,9 @@ Number | Problem
 Number | Problem 
 :---: | :---:
 1|[Hash_Tables_Ice_Cream_Parlor.py](Interview_Preparation_Kit/Hash_Tables_Ice_Cream_Parlor.py)
+
+### Stacks and Queues
+
+Number | Problem 
+:---: | :---:
+1|[Balanced_Brackets.py](Interview_Preparation_Kit/Balanced_Brackets.py)
