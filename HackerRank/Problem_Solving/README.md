@@ -193,6 +193,7 @@ Number | Problem
 Number | Problem 
 :---: | :---:
 1|[Greedy_Florist.py](Interview_Preparation_Kit/Greedy_Florist.py)
+2|[Max_Min.py](Interview_Preparation_Kit/Max_Min.py)
 
 
 ### Search
