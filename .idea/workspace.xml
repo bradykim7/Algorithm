@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af85dfbc-1e4a-4316-bfd4-cd4e954c7b5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/Interview_Preparation_Kit/Max_Min.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/73a69bdefad3a004d62b2c656d643b50fcd6aa64" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/73a69bdefad3a004d62b2c656d643b50fcd6aa64" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/Interview_Preparation_Kit/Pairs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HackerRank/Problem_Solving/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/Problem_Solving/README.md" afterDir="false" />
     </list>
@@ -118,7 +116,8 @@
       <workItem from="1593330512193" duration="1767000" />
       <workItem from="1593603938861" duration="340000" />
       <workItem from="1593691513165" duration="715000" />
-      <workItem from="1593764621288" duration="62000" />
+      <workItem from="1593764621288" duration="671000" />
+      <workItem from="1594122099702" duration="437000" />
     </task>
     <servers />
   </component>

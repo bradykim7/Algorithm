@@ -201,6 +201,8 @@ Number | Problem
 Number | Problem 
 :---: | :---:
 1|[Hash_Tables_Ice_Cream_Parlor.py](Interview_Preparation_Kit/Hash_Tables_Ice_Cream_Parlor.py)
+2|[Pairs.py](Interview_Preparation_Kit/Pairs.py)
+
 
 ### Stacks and Queues
 
