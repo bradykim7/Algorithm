@@ -1,0 +1,8 @@
+
+cpython:S117
+"MRename this parameter "A" to match the regular expression ^[_a-z][a-z0-9_]*$.(óñÒL
+cpython:S117
+"MRename this parameter "B" to match the regular expression ^[_a-z][a-z0-9_]*$.(óñÒL
+npython:S1542
+"WRename function "beautifulPairs" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(óñÒL
+6python:S125"Remove this commented out code.(‰õÐ¦
