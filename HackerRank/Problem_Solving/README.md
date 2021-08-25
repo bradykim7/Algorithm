@@ -30,8 +30,6 @@ Number | Problem | Number | Problem
 25|[Sock_Merchant.py](implementation/Sock_Merchant.py)
 
 
-
-
 ## Greedy
 
 ### Easy
